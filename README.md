@@ -2,6 +2,8 @@
 
 *2022*
 
+[Ссылка на датасет с фильмами](https://www.kaggle.com/noahfinberg/movies)
+
 ## Структура
 
 + **search.py, server.py** - все функции реализованы в контексте задачи
