@@ -6,7 +6,7 @@
 
 # DEMO
 
-[GIF](https://drive.google.com/file/d/17en35_8hVFPwyUtiqE993Wqqkts5sH31/view?usp=sharing)
+![GIF](https://drive.google.com/file/d/17en35_8hVFPwyUtiqE993Wqqkts5sH31/view?usp=sharing)
 
 ## Структура
 
